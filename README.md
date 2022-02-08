@@ -1,4 +1,4 @@
-# Key Model Data to LLi et al. (2022); GMDD
+# Key Model Data to LLi et al. (2022): LLi2022GMD.tar.gz
 
 Title for the paper: 
 
