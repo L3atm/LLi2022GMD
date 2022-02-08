@@ -1,4 +1,4 @@
-# Model data archived for LLi2022GMD
+# Model data archived for LLi et al. (2022); GMD
 
 Title: Importance of different parameterization changes for the updated dust cycle modelling in the Community Atmosphere Model (version 6.1)
 
