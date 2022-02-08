@@ -1,6 +1,6 @@
-# Key Model Data to LLi et al. (2022); GMD
+# Key Model Data to LLi et al. (2022); GMDD
 
-Title: 
+Title for the paper: 
 
 Importance of different parameterization changes for the updated dust cycle modelling in the Community Atmosphere Model (version 6.1)
 
