@@ -36,4 +36,21 @@ LLiGMD2022_dust_DRE_"casenames".nc: dust direct radiative effect at the top of t
 
 Note dust quantities and direct radiative effects from EXP03 and EXP04 are rescaled in Li et al. (2022), but this dataset cotains unscaled numbers.
 
+Descriptions of variables
+
+toaforcingnt (W/m2): net (SW+LW) direct radiative effect
+
+AODDUST (unitless): dust aerosol optical depth at the visible band centered at 0.53 µm
+
+dst_aSF (Kg/m2/s): surface dust emission rate
+
+dst_ttDDF (Kg/m2/s): dry deposition rate of dust aerosol
+
+dst_ttDep (Kg/m2/s): total deposition (dry+wet) rate of dust aerosol
+
+dst_ttSFWET (Kg/m2/s): wet deposition rate of dust aerosol
+
+dust_burden (kg/m2): dust burden
+
+
 
