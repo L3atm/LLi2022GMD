@@ -1,6 +1,9 @@
 # LLi2022GMD
 Model data archived for "Importance of different parameterization changes for the updated dust cycle modelling in the Community Atmosphere Model (version 6.1)"
 
+Authors: Longlei Li1, Natalie M Mahowald1, Jasper F Kok2, Xiaohong Liu3, Mingxuan Wu4, Danny M. Leung2, Douglas S Hamilton1, Louisa K. Emmons5 Yue Huang2,7,8, Jun Meng2, Neil Sexton1, and Jessica Wan6![image](https://user-images.githubusercontent.com/31446018/153068111-13efaa51-5f82-4d61-8803-7e3c88395198.png)
+
+
 Casenames below correspond to those described in Table 4 in order
 
 01: cam6_bulk_pz10AspBRIFTS5_001_soilMoisture_01
