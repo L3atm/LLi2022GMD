@@ -1,5 +1,6 @@
-# LLi2022GMD
-Model data archived for "Importance of different parameterization changes for the updated dust cycle modelling in the Community Atmosphere Model (version 6.1)"
+# Model data archived for LLi2022GMD
+
+Title: Importance of different parameterization changes for the updated dust cycle modelling in the Community Atmosphere Model (version 6.1)
 
 Authors: Longlei Li, Natalie M Mahowald, Jasper F Kok, Xiaohong Liu, Mingxuan Wu, Danny M. Leung, Douglas S Hamilton, Louisa K. Emmons, Yue Huang, Jun Meng, Neil Sexton, and Jessica Wan
 
