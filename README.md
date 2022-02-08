@@ -1,4 +1,4 @@
-# Model data archived for LLi et al. (2022); GMD
+# Key Model Data to LLi et al. (2022); GMD
 
 Title: 
 
@@ -8,7 +8,7 @@ Authors:
 
 Longlei Li, Natalie M Mahowald, Jasper F Kok, Xiaohong Liu, Mingxuan Wu, Danny M. Leung, Douglas S Hamilton, Louisa K. Emmons, Yue Huang, Jun Meng, Neil Sexton, and Jessica Wan
 
-Casenames below correspond to those described in Table 4 in order
+Casenames below corresponding to those described in Table 4 in order
 
 01: cam6_bulk_pz10AspBRIFTS5_001_soilMoisture_01
 
@@ -27,3 +27,12 @@ Casenames below correspond to those described in Table 4 in order
 08: cam6_c1999_z01Asph_kok_noHemsilt_soilMoistureOn
 
 09: cam6_c1999_pz01Asph_kok_noHemsilt_soilMoistureOn
+
+Data describtions
+
+LLiGMD2022_dust_quantity_"casenames".nc: dust quantities including dust aerosol optical depth, deposition fluxes (wet, dry, and total), and burdens
+
+: dust radiative effect at the top of the atmosphere under all-sky conditions
+: dust single scattering albedo at the visible band centered at 0.53 µm
+
+
