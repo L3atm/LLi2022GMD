@@ -1,4 +1,4 @@
-# Key Model Data to LLi et al. (2022): LLi2022GMD.tar.gz
+# Key Data to LLi et al. (2022): LLi2022GMD.model.output.tar.gz and LLi2022GMD.Albani2014JAMES.tar.gz
 
 Title for the paper: 
 
@@ -8,7 +8,15 @@ Authors:
 
 Longlei Li, Natalie M Mahowald, Jasper F Kok, Xiaohong Liu, Mingxuan Wu, Danny M. Leung, Douglas S Hamilton, Louisa K. Emmons, Yue Huang, Jun Meng, Neil Sexton, and Jessica Wan
 
-Casenames below corresponding to those described in Table 4 in order
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Model output 
+
+LLi2022GMD.model.output.tar.gz
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Model casenames below corresponding to those described in Table 4 in order
 
 EXP01: cam6_bulk_pz10AspBRIFTS5_001_soilMoisture_01
 
@@ -28,7 +36,7 @@ EXP08: cam6_c1999_z01Asph_kok_noHemsilt_soilMoistureOn
 
 EXP09: cam6_c1999_pz01Asph_kok_noHemsilt_soilMoistureOn
 
-Data describtions
+Data filename describtions
 
 LLiGMD2022_dust_quantity_"casenames".nc: dust quantities including dust aerosol optical depth, deposition fluxes (wet, dry, and total), and burdens
 
@@ -52,5 +60,19 @@ dst_ttSFWET (Kg/m2/s): wet deposition rate of dust aerosol
 
 dust_burden (kg/m2): dust burden
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+Data from Albani et al. (2014) archived here
+
+LLi2022GMD.Albani2014JAMES.tar.gz
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+conc.Fe.exclude: surface dust concentrations
+
+samuel.dep.approxlessthan10.northamerica: dust total (dry+wet) deposition fluxes
+
+stations.dust.uselatlon.opta: filtered dust aerosol optical depth
+
+See Albani et al. (2014) for details about the data
 
