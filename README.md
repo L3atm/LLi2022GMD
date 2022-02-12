@@ -8,13 +8,13 @@ Authors:
 
 Longlei Li, Natalie M Mahowald, Jasper F Kok, Xiaohong Liu, Mingxuan Wu, Danny M. Leung, Douglas S Hamilton, Louisa K. Emmons, Yue Huang, Jun Meng, Neil Sexton, and Jessica Wan
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Model output 
 
 LLi2022GMD.model.output.tar.gz
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Model casenames below corresponding to those described in Table 4 in order
 
@@ -60,13 +60,13 @@ dst_ttSFWET (Kg/m2/s): wet deposition rate of dust aerosol
 
 dust_burden (kg/m2): dust burden
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Data from Albani et al. (2014) archived here
 
 LLi2022GMD.Albani2014JAMES.tar.gz
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 conc.Fe.exclude: surface dust concentrations
 
